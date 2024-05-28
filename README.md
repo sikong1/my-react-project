@@ -1,3 +1,11 @@
+<!--
+ * @Author: sikonggpw 1327325804@qq.com
+ * @Date: 2024-04-25 15:19:33
+ * @LastEditors: sikonggpw 1327325804@qq.com
+ * @LastEditTime: 2024-05-28 10:13:22
+ * @FilePath: \my-app-react\README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -6,7 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm dev`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
